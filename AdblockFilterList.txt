@@ -1,0 +1,33 @@
+! Title: Rahul's Adblock Filter List
+! Expires: 4 days
+! Licence: https://github.com/rahul-k/Adblock-Filterlist/blob/master/LICENSE
+! Homepage: https://github.com/rahul-k/Adblock-Filterlist
+
+
+
+##div[id^="lpInviteLayer"]
+*/livechat.js
+||pushpushgo.com/scripts/*$script
+||*.crisp.chat/*
+||*.intergram.xyz/js/*
+||*.user.com/static/js/*
+||assets.producthunt.com/assets/upwigloader.js
+||assetscdn-wchat.freshchat.com/*
+||cdn.connatix.com/*
+||cdn.pushcrew.com/js/*$script
+||code.jivosite.com/script/widget/*
+||code.tido.co/*
+||connect.facebook.net/en_US/sdk/xfbml.customerchat.js
+||connect.podium.com/*
+||dellcdn.com/*/proactive-chat-js
+||doubtfulrainstorm.com/*$script
+||downloadcenter.intel.com/*/dc-feedback.js
+||js.driftt.com/include/*
+||js.usemessages.com/*
+||oscassets.latitudefinancial.com/osc/post-login/banner/*$image
+||static.getchipbot.com/*
+||static.zdassets.com/ekr/snippet.js^
+||wchat.freshchat.com/*
+||widget.intercom.io/*
+||widget.mfy.im/*
+||www.couchbase.com/webfiles/1552355627964/js/contact-popup-form.js
