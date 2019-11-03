@@ -1,9 +1,9 @@
+[Adblock Plus 2.0]
 ! Title: Rahul's Adblock Filter List
+! Version: 20191103
 ! Expires: 4 days
 ! Licence: https://github.com/rahul-k/Adblock-Filterlist/blob/master/LICENSE
 ! Homepage: https://github.com/rahul-k/Adblock-Filterlist
-
-
 
 ##div[id^="lpInviteLayer"]
 */livechat.js
