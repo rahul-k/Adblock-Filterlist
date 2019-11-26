@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Rahul's Adblock Filter List
-! Version: 20191103
+! Version: 20191126
 ! Expires: 4 days
 ! Licence: https://github.com/rahul-k/Adblock-Filterlist/blob/master/LICENSE
 ! Homepage: https://github.com/rahul-k/Adblock-Filterlist
 
+
 ##div[id^="lpInviteLayer"]
 */livechat.js
-||pushpushgo.com/scripts/*$script
 ||*.crisp.chat/*
 ||*.intergram.xyz/js/*
 ||*.user.com/static/js/*
@@ -17,6 +17,7 @@
 ||cdn.pushcrew.com/js/*$script
 ||code.jivosite.com/script/widget/*
 ||code.tido.co/*
+||commbank.com.au##div#ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 ||connect.facebook.net/en_US/sdk/xfbml.customerchat.js
 ||connect.podium.com/*
 ||dellcdn.com/*/proactive-chat-js
@@ -25,6 +26,8 @@
 ||js.driftt.com/include/*
 ||js.usemessages.com/*
 ||oscassets.latitudefinancial.com/osc/post-login/banner/*$image
+||pushpushgo.com/scripts/*$script
+||smartlock.google.com/*
 ||static.getchipbot.com/*
 ||static.zdassets.com/ekr/snippet.js^
 ||wchat.freshchat.com/*
