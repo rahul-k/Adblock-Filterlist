@@ -6,8 +6,8 @@
 ! Homepage: https://github.com/rahul-k/Adblock-Filterlist
 
 
-##div[id^="lpInviteLayer"]
 */livechat.js
+##div[id^="lpInviteLayer"]
 ||*.crisp.chat/*
 ||*.intergram.xyz/js/*
 ||*.user.com/static/js/*
@@ -15,6 +15,8 @@
 ||assetscdn-wchat.freshchat.com/*
 ||cdn.connatix.com/*
 ||cdn.pushcrew.com/js/*$script
+||cdnssl.clicktale.net/www/*$script
+||cdnssl.clicktale.net/www41/pcc/*$script
 ||code.jivosite.com/script/widget/*
 ||code.tido.co/*
 ||commbank.com.au##div#ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
@@ -34,3 +36,5 @@
 ||widget.intercom.io/*
 ||widget.mfy.im/*
 ||www.couchbase.com/webfiles/1552355627964/js/contact-popup-form.js
+commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
+intel.com##div.feedback
