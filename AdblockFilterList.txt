@@ -38,3 +38,4 @@
 ||www.couchbase.com/webfiles/1552355627964/js/contact-popup-form.js
 commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 intel.com##div.feedback
+www.dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
