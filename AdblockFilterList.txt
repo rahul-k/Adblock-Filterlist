@@ -11,6 +11,7 @@
 ||*.crisp.chat/*
 ||*.intergram.xyz/js/*
 ||*.user.com/static/js/*
+||afcs.dellcdn.com/csb/contact-drawer/bundles/js/*$script
 ||assets.producthunt.com/assets/upwigloader.js
 ||assetscdn-wchat.freshchat.com/*
 ||cdn.connatix.com/*
@@ -25,6 +26,7 @@
 ||dellcdn.com/*/proactive-chat-js
 ||doubtfulrainstorm.com/*$script
 ||downloadcenter.intel.com/*/dc-feedback.js
+||downloadcenter.intel.com/inc/javascript/dc-feedback.js
 ||js.driftt.com/include/*
 ||js.usemessages.com/*
 ||oscassets.latitudefinancial.com/osc/post-login/banner/*$image
@@ -38,5 +40,5 @@
 ||www.couchbase.com/webfiles/1552355627964/js/contact-popup-form.js
 commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 intel.com##div.feedback
-www.dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
 tags.tiqcdn.com/utag/intel/profile-downloadcenter/*$script
+dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
