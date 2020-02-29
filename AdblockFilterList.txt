@@ -40,5 +40,5 @@
 ||www.couchbase.com/webfiles/1552355627964/js/contact-popup-form.js
 commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 intel.com##div.feedback
-tags.tiqcdn.com/utag/intel/profile-downloadcenter/*$script
+tags.tiqcdn.com/utag/intel/*$script
 dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
