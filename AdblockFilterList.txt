@@ -39,3 +39,4 @@
 commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 intel.com##div.feedback
 www.dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
+tags.tiqcdn.com/utag/intel/profile-downloadcenter/*$script
