@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Rahul's Adblock Filter List
-! Version: 20191126
+! Version: 20200707
 ! Expires: 4 days
 ! Licence: https://github.com/rahul-k/Adblock-Filterlist/blob/master/LICENSE
 ! Homepage: https://github.com/rahul-k/Adblock-Filterlist
@@ -11,6 +11,7 @@
 ||*.crisp.chat/*
 ||*.intergram.xyz/js/*
 ||*.user.com/static/js/*
+||accounts.google.com/gsi/iframe/select$subdocument
 ||afcs.dellcdn.com/csb/contact-drawer/bundles/js/*$script
 ||assets.producthunt.com/assets/upwigloader.js
 ||assetscdn-wchat.freshchat.com/*
@@ -42,4 +43,6 @@ commbank.com.au###ctl00_ContentHeaderPlaceHolder_tntProminenceDiv
 dellcdn.com/support/staticcdn/contactus-slider/common/js/*$script
 dzone.com##div#adtoniq-msgr-bar
 intel.com##div.feedback
+iperceptions.com/*$script
 tags.tiqcdn.com/utag/intel/*$script
+ttauri.t3.com/*$script
